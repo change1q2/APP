@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6a10169-97ec-4923-a000-b608bdfccba0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/app_03_app操作/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/demo-app常用操作方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/demo-快速进入登录界面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/demo2_swipe封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/demo3_快速进入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/demo4_touchaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/demo_swipe操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/demo_安装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0228_appium九宫格绘制/app九宫格/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0228_appium九宫格绘制/app九宫格/demo1_九宫格.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0228_appium九宫格绘制/app九宫格/demo2_九宫格封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0228_appium九宫格绘制/app九宫格/demon3_放大缩小.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0228_appium九宫格绘制/app九宫格/demon4-按键操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0228_appium九宫格绘制/app九宫格/deom5_混合应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app_06_app框架上课 (2).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/app_06_app框架上课.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/caps.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/constant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/security_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/server.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/login_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tiku_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_yaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/nav_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tiku_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/user_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cases/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cases/test_tiku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/微信公众号代码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/微信小程序代码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/01openpyxl的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/02读取excel的数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/03-1日志模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/03-2自定义日志收集器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/04-1request模块的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/04-2requests请求项目接口.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/04-3patch请求.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/04-4request请求返回的数据提取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/04-5使用jsonpath来提取数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/04-6通过cookie和session鉴权的接口处理方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/05json_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/handle_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/mock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/数据库校验/01python中如何去操作mysql数据库.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/数据库校验/02数据库校验.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/数据库校验/03正则表达式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/正则表达式/01re模块的常用方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/正则表达式/02hand_data用正则表达式进行替换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/配置文件操作/01配置文件的操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/配置文件操作/02配置文件的封装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/配置文件操作/conf.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/接口操作方法/配置文件操作/测试上传" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/课堂总结" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/test_case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../text/text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../24-seak-7个接口全通/py24_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/../../../24-seak-7个接口全通/py24_api_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/.idea/py24_api_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/.idea/py24_api_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/common/contants.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/common/contants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/common/handle_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/common/handle_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/common/myconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/common/myconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/common/mylogger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/common/mylogger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/common/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/common/readexcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/conf/conf.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/conf/conf.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/data/apicases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/data/apicases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/library/HTMLTestRunnerNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/library/HTMLTestRunnerNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/library/ddt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/library/ddt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/reports/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/run_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/run_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/testcases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/testcases/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/testcases/test_register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/testcases/test_register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/20191204/py24_api_test/上课演示代码/random_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/20191204/py24_api_test/上课演示代码/random_phone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HTMLTestRunnerNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HTMLTestRunnerNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork/HTMLTestRunnerNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork/HTMLTestRunnerNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork/runtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork/runtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork2/HTMLTestRunnerNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork2/HTMLTestRunnerNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork2/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork2/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork2/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork2/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork2/runtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork2/runtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork2/task_13day.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork2/task_13day.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/HomeWork2/testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/HomeWork2/testcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/py24_13day/HTMLTestRunnerNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/py24_13day/HTMLTestRunnerNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/py24_13day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/py24_13day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/py24_13day/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/py24_13day/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/py24_13day/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/py24_13day/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/py24_13day/runtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/py24_13day/runtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/py24_13day/runtest2-启动文件suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/py24_13day/runtest2-启动文件suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/py24_13day/task_13day.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/py24_13day/task_13day.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/py24_13day/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/py24_13day/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/runtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/runtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/runtest2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/runtest2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/task_13day.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/task_13day.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_13day/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_13day/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/01openpyxl的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/01openpyxl的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/02openpyxl的封装.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/02openpyxl的封装.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/3testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/3testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/4runtest2-测试套件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/4runtest2-测试套件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/login-登陆代码测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/login-登陆代码测试.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/02openpyxl的封装.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/02openpyxl的封装.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/HTMLTestRunnerNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/HTMLTestRunnerNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/case.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/case.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/class类中object.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/class类中object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/openpyxl的使用（操作excle）.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/openpyxl的使用（操作excle）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/readexcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/runtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/runtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/runtest2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/runtest2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/task_13day.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/task_13day.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/py24_13-pritace-day/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/py24_13-pritace-day/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/readexcel-读取excle中的数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/readexcel-读取excle中的数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/readexcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/runtest2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/runtest2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/project_14day_v1/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/project_14day_v1/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13day/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13day/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13day/run_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13day/run_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13day/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13day/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13day/zy_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13day/zy_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13dayhomework/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13dayhomework/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13dayhomework/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13dayhomework/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13dayhomework/run_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13dayhomework/run_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13dayhomework/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13dayhomework/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_14day/task_13dayhomework/zy_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_14day/task_13dayhomework/zy_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py15day_peoject/02读取excel的数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py15day_peoject/02读取excel的数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py15day_peoject/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py15day_peoject/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py15day_peoject/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py15day_peoject/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py15day_peoject/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py15day_peoject/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py15day_peoject/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py15day_peoject/readexcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py15day_peoject/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py15day_peoject/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py15day_peoject/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py15day_peoject/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py15day_peoject/run_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py15day_peoject/run_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py15day_peoject/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py15day_peoject/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/py_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/py_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/task_14day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/task_14day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/task_14day/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/task_14day/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/task_14day/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/task_14day/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/task_14day/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/task_14day/readexcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/task_14day/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/task_14day/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/task_14day/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/task_14day/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/task_14day/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/task_14day/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/task_14day/run_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/task_14day/run_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/task_14day/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/task_14day/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py15day_peoject/01读取excel的数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py15day_peoject/01读取excel的数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py15day_peoject/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py15day_peoject/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py15day_peoject/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py15day_peoject/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py15day_peoject/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py15day_peoject/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py15day_peoject/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py15day_peoject/readexcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py15day_peoject/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py15day_peoject/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py15day_peoject/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py15day_peoject/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py15day_peoject/run_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py15day_peoject/run_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py15day_peoject/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py15day_peoject/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/py_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/py_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/task_14day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/task_14day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/task_14day/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/task_14day/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/task_14day/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/task_14day/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/task_14day/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/task_14day/readexcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/task_14day/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/task_14day/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/task_14day/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/task_14day/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/task_14day/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/task_14day/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/task_14day/run_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/task_14day/run_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_15day/老师代码/py24_15day/task_14day/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_15day/老师代码/py24_15day/task_14day/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/01日志模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/01日志模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/02自定义日志收集器.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/02自定义日志收集器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/ddt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/ddt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/readexcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/run_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/run_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_16day/task_15day/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_16day/task_15day/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/20191129/02requests请求项目接口.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/20191129/02requests请求项目接口.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/20191129/02request模块的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/20191129/02request模块的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/20191129/03patch请求.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/20191129/03patch请求.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/20191129/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/20191129/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/20191129/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/20191129/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/20191129/前程贷future-db数据字典1.3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/20191129/前程贷future-db数据字典1.3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/20191129/柠檬班-前程贷接口1.3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/20191129/柠檬班-前程贷接口1.3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/20191129/项目地址.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/20191129/项目地址.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/HTMLTestRunnerNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/HTMLTestRunnerNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/ddt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/ddt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/readexcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/run_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/run_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/思考步骤" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/思考步骤" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/HomeWork/补充知识点eval用法" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/HomeWork/补充知识点eval用法" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/log函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/log函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/test.log.2019-11-26_19-11-54" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/test.log.2019-11-26_19-11-54" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_17day/tast16/日志轮转.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_17day/tast16/日志轮转.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/20191129/02requests请求项目接口.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/20191129/02requests请求项目接口.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/20191129/02request模块的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/20191129/02request模块的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/20191129/03patch请求.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/20191129/03patch请求.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/20191129/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/20191129/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/20191129/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/20191129/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/20191129/前程贷future-db数据字典1.3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/20191129/前程贷future-db数据字典1.3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/20191129/柠檬班-前程贷接口1.3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/20191129/柠檬班-前程贷接口1.3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/20191129/项目地址.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/20191129/项目地址.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/cases.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/代码/03request请求返回的数据提取.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/代码/03request请求返回的数据提取.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/代码/04使用jsonpath来提取数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/代码/04使用jsonpath来提取数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/代码/05json_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/代码/05json_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/代码/06通过cookie和session鉴权的接口处理方式.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/代码/06通过cookie和session鉴权的接口处理方式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/代码/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/代码/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../API/py24_18day/代码/handle_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02单元测试搭建/py24_18day/代码/handle_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../py24_api_test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0221_appium安装/app自动化1安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/app自动化1安装.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0223_appium元素定位/app_02_元素定位.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyclass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/.idea/pyweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/课堂.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/common/base_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/common/excel_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/config/constant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/data/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/data/cases.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/data/login_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/pages/bid_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/pages/index_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/pages/locator/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/pages/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/pages/user_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/test_case/test_bid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/test_case/test_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_07_select/d1_鼠标操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_07_select 鼠标操作/d1_鼠标操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_07_select/d1_鼠标操作2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_07_select 鼠标操作/d1_鼠标操作2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_07_select/d3_键盘操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_07_select 鼠标操作/d3_键盘操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_07_select/d4_js.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_07_select 鼠标操作/d4_js.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_07_select/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_07_select 鼠标操作/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_07_select/总结.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_07_select 鼠标操作/总结.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_08_js/d1_获取属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_08_js文件上传/d1_获取属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_08_js/d2_发送js代码.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_08_js文件上传/d2_发送js代码.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_08_js/d3_12306.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_08_js文件上传/d3_12306.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_08_js/d4_文件上传.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_08_js文件上传/d4_文件上传.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_08_js/d5_文件上传_系统组件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_08_js文件上传/d5_文件上传_系统组件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_08_js/d6_pywin32.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_08_js文件上传/d6_pywin32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_08_js/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_08_js文件上传/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_08_js/总结.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_08_js文件上传/总结.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/.idea/web_09_framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/.idea/web_09_framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/pages/index_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/pages/index_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/pages/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/run_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/run_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/test_case/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0222_app安装和常用操作/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pyweb/web_09_framework/test_case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pyweb/web_09_framework框架搭建/test_case/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../unittest" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="644" />
+    <option name="y" value="47" />
+    <option name="width" value="1081" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1ZnDSoHCPVMUGh5MqbNJpsIbxXS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app_06_app框架上课 (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_06_app框架上课 (2)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app_06_app框架上课 (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_06_app框架上课 (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app_06_app框架上课 (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_06_app框架上课 (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app_06_app框架上课 (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_06_app框架上课 (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app_06_app框架上课 (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app_06_app框架上课 (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="test_cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\课堂\pyapp\0306_实战2和小程序测试\app_06_app框架上课 (2)" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\课堂\pyapp\0306_实战2和小程序测试\app_06_app框架上课 (2)\接口操作方法" />
+      <recent name="C:\data\jianguoyun\projects\python24\app_06_app框架上课" />
+      <recent name="C:\data\jianguoyun\projects\python24\app_06_app框架上课\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mock">
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app_06_app框架上课" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app_06_app框架上课" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/接口操作方法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/接口操作方法/mock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app_06_app框架上课" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in conftest.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="app_06_app框架上课" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/conftest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="app_06_app框架上课" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_cases/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_tiku.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="app_06_app框架上课" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_cases/test_tiku.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python.mock" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python tests.pytest in conftest.py" />
+      <item itemvalue="Python tests.pytest in test_login.py" />
+      <item itemvalue="Python tests.pytest in test_tiku.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mock" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.pytest in test_tiku.py" />
+        <item itemvalue="Python tests.pytest in test_login.py" />
+        <item itemvalue="Python.conftest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6a10169-97ec-4923-a000-b608bdfccba0" name="Default Changelist" comment="" />
+      <created>1583322406353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583322406353</updated>
+      <workItem from="1585465973904" duration="222000" />
+      <workItem from="1585466218863" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_login_py - 2020.03.08 at 16h 38m 47s.xml">
+      <configuration name="pytest in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_tiku_TestTiku - 2020.03.08 at 16h 39m 01s.xml">
+      <configuration name="pytest for test_tiku.TestTiku" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_conftest_py - 2020.03.08 at 17h 19m 43s.xml">
+      <configuration name="pytest in conftest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_login_py - 2020.03.08 at 17h 20m 06s.xml">
+      <configuration name="pytest in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_tiku_py - 2020.03.08 at 17h 20m 13s.xml">
+      <configuration name="pytest in test_tiku.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_login_py - 2020.03.12 at 12h 39m 02s.xml">
+      <configuration name="pytest in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_login_py - 2020.03.12 at 12h 39m 35s.xml">
+      <configuration name="pytest in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_login_py - 2020.03.14 at 19h 13m 21s.xml">
+      <configuration name="pytest in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_login_py - 2020.03.23 at 09h 47m 21s.xml">
+      <configuration name="pytest in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_tiku_py - 2020.03.23 at 09h 48m 05s.xml">
+      <configuration name="pytest in test_tiku.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="644" y="47" width="1081" height="1047" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24928091" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1585466219865">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585466219865" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo_yaml.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/common/basepage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/login_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/tiku_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index_page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/nav_page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tiku_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/user_page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/test_login.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

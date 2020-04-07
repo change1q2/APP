@@ -1,0 +1,9 @@
+platformName: Android
+automationName: UiAutomator2
+deviceName: emulator-5554
+appActivity: .activity.WelcomeActivity
+appPackage: com.lemon.lemonban
+noReset: false
+chromedriverExecutableDir: C:\\chromdriver
+
+
